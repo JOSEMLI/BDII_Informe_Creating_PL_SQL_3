@@ -1,0 +1,2 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Actividad No 03 \IeC {\textendash } Creating PL/SQL Blocks}{1}
